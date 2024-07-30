@@ -49,11 +49,6 @@ Each image has a unique entry into the corresponding ```annotations.csv``` file 
 - **Example**: `train`
 - **Notes**: This is used to organize the data for different stages of model development and evaluation.
 
-### `path`
-- **Description**: The file path to the specific dataset entry within the directory structure.
-- **Example**: `datasets/CelebAMask-HQ-Armocromy/MERGED_masked_RGB/train/autunno/deep/10306.jpg`
-- **Notes**: This path points to the actual image file used in the dataset.
-
 ### `celeba`
 - **Description**: A boolean value indicating whether the entry belongs to the CelebA dataset.
 - **Example**: `True`
