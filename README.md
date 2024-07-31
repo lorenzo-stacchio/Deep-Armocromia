@@ -114,7 +114,7 @@ The evaluation metrics are the bounding box's average precision <a href="https:/
 
 
 
-# Reference
+<!--# Reference
 
 If you use the DeepArmocromia dataset in your work, please cite it as:
 
@@ -137,4 +137,4 @@ If you use the DeepArmocromia dataset in your work, please cite it as:
 ## APA
 ```
 Stacchio, L., Paolanti, M., Spigarelli, F., & Frontoni, E. (2024). Deep Armocromia: A novel dataset for face seasonal color analysis and classification. In European Conference on Computer Vision (pp. xxx-yyy). Springer.
-```
+```-->
