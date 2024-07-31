@@ -14,25 +14,25 @@
   <a> Figure 1: Deep Armocromia examples.</a>
 </p>
 
-
-Deep Armocromia, a novel dataset comprising labeled face images categorized according to Armocromia Flow Theory, with a strict annotation protocol in collaboration with experts.
+<p align="justify">
+Deep Armocromia is a novel dataset comprising labeled face images categorized according to Armocromia Flow Theory, with a strict annotation protocol in collaboration with experts.
 
 We conducted experiments to validate the effectiveness of DL models in discriminating among Armocromia classes optimized on Deep Armocromia. Results underscore the challenges inherent to Armocromia classification and highlight opportunities for advancing DL architectures and optimization methodologies.
 
 We here release this dataset for scientific and research purposes only. 
-
+ </p>
 
 <!--*<sub>From (1) to (4), each row represents clothes images with different variations. At each row, we partition the images into two groups, the left three columns represent clothes from commercial stores, while the right three columns are from customers.In each group, the three images indicate three levels of difficulty with respect to the corresponding variation.Furthermore, at each row, the items in these two groups of images are from the same clothing identity but from two different domains, that is, commercial and customer.The items of the same identity may have different styles such as color and printing.Each item is annotated with landmarks and masks.*-->
 
 # Announcements
-* 2024-07 The paper is accepted at ECCV 2024 [Fashion AI Workshop](https://sites.google.com/view/fashionai2024).
+<!--* 2024-07 The paper is accepted at ECCV 2024 [Fashion AI Workshop](https://sites.google.com/view/fashionai2024).-->
  
 # Download the Data
 Deep Armocromia dataset is available in [Deep Armocromia Google Drive Folder](https://drive.google.com/drive/folders/1QuFJqNxhbLVME5UyUjDGYHQ1ntAqgniT?usp=sharing). You need fill in the [form](https://forms.gle/icac2opCYqF79RyE9) to get password for unzipping files. Please refer to Data Description below for detailed information about dataset.
 
 
 # Data Organization
-Each image has a unique entry into the corresponding ```annotations.csv``` file which provides the following annotations:  \
+Each image has a unique entry into the corresponding ```annotations.csv``` file which provides the following annotations:
 
 ### `class`
 - **Description**: Represents the primary classification label for the dataset entry.
