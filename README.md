@@ -25,6 +25,7 @@ We release this dataset here for scientific and research purposes only.
 <!--*<sub>From (1) to (4), each row represents clothes images with different variations. At each row, we partition the images into two groups, the left three columns represent clothes from commercial stores, while the right three columns are from customers.In each group, the three images indicate three levels of difficulty with respect to the corresponding variation.Furthermore, at each row, the items in these two groups of images are from the same clothing identity but from two different domains, that is, commercial and customer.The items of the same identity may have different styles such as color and printing.Each item is annotated with landmarks and masks.*-->
 
 # Announcements
+* 2024-09 The dataset requests will be accomplished after the paper presentation at ECCV 2024!
 * 2024-08 The paper is accepted at ECCV 2024 [Fashion AI Workshop](https://sites.google.com/view/fashionai2024) !
 
  
@@ -115,7 +116,7 @@ The evaluation metrics are the bounding box's average precision <a href="https:/
 
 
 
-<!--# Reference
+# Reference
 
 If you use the DeepArmocromia dataset in your work, please cite it as:
 
@@ -127,7 +128,7 @@ If you use the DeepArmocromia dataset in your work, please cite it as:
           Marina Paolanti and
           Francesca Spigarelli and
           Emanuele Frontoni},
-  booktitle={European Conference on Computer Vision},
+  booktitle={European Conference on Computer Vision (ECCV) Workshops},
   pages={xxx--yyy},
   year={2024},
   organization={Springer}
@@ -137,5 +138,5 @@ If you use the DeepArmocromia dataset in your work, please cite it as:
 
 ## APA
 ```
-Stacchio, L., Paolanti, M., Spigarelli, F., & Frontoni, E. (2024). Deep Armocromia: A novel dataset for face seasonal color analysis and classification. In European Conference on Computer Vision (pp. xxx-yyy). Springer.
-```-->
+Stacchio, L., Paolanti, M., Spigarelli, F., & Frontoni, E. (2024). Deep Armocromia: A novel dataset for face seasonal color analysis and classification. In European Conference on Computer Vision (ECCV) Workshops, (pp. xxx-yyy). Springer.
+```
