@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="100%" height="100%" src="./resources/eccv_fashion-dataset examples.drawio.png"> </img>
+  <img width="100%" height="100%" src="./docs/static/images/eccv_fashion-dataset examples.drawio.png"> </img>
   <a> Figure 1: Deep Armocromia examples.</a>
 </p>
 
@@ -73,7 +73,7 @@ Please note that all the images amounting to fashion parsing binary masks were e
 
 
 <p align="center">
-  <img width="100%" height="100%" src="./resources/eccv_fashion-face_processing.drawio.png">
+  <img width="100%" height="100%" src="./docs/static/images/eccv_fashion-face_processing.drawio.png">
   <a> Figure 2: Dataset Face Parsing Mask Extraction process.</a>
 </p>
 
@@ -93,7 +93,7 @@ Each image is either taken from Celeb-A dataset or manually annotated by scrapin
 Figure 3 shows the statistics of images and annotations in Deep Armocromia, according to the 4 color seasons and 12 seasonal sub-types (For more precise statistics please refer to the manuscript).
 
 <p align="center">
-  <img width="100%" height="100%" src="./resources/final.png">
+  <img width="100%" height="100%" src="./docs/static/images/final.png">
   <a> Figure 3: Deep Armocromia Dataset Statistics.</a>
 </p>
 
