@@ -30,7 +30,14 @@ We release this dataset here for scientific and research purposes only.
 
  
 # Dataset Download
-The Deep Armocromia dataset is available in [Deep Armocromia Google Drive Folder](https://drive.google.com/drive/folders/1QuFJqNxhbLVME5UyUjDGYHQ1ntAqgniT?usp=sharing). You need to fill in the [form](https://forms.gle/icac2opCYqF79RyE9) to get the password for unzipping files. Please refer to the Data Description below for detailed information about the dataset.
+The Deep Armocromia dataset is available in [Deep Armocromia Google Drive Folder](https://drive.google.com/drive/folders/1QuFJqNxhbLVME5UyUjDGYHQ1ntAqgniT?usp=sharing). You need to fill in the [form](https://forms.gle/icac2opCYqF79RyE9) to get the password for unzipping files. Please take a look at the Data Description below for detailed information about the dataset.
+
+**Please note that the labels for the 4 Season labeling were written in Italian, their English translation here follows**:
+
+* Primavera: Spring
+* Estate: Summer
+* Autunno: Autumn
+* Inverno: Winter
 
 
 # Dataset Organization
