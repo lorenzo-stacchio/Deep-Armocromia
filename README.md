@@ -1,6 +1,6 @@
 # Deep Armocromia Dataset ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.Deep-Armocromia)
 
-**[University of Macerata](https://www.unimc.it/en?set_language=en), [Vision Robotics and Artificial Intelligence (VRAI) Lab](https://vrai.dii.univpm.it/)**
+**[University of Macerata](https://www.unimc.it/en?set_language=en), [Vision Robotics and Artificial Intelligence (VRAI) Lab](https://vrailab.it/)**
 
 [Lorenzo Stacchio](https://scholar.google.com/citations?user=oHkM91kAAAAJ&hl=it&oi=ao), [Marina Paolanti](https://scholar.google.com/citations?user=Q_16CysAAAAJ&hl=it&oi=ao), [Francesca Spigarelli](https://scholar.google.com/citations?user=kIzyjqsAAAAJ&hl=it&oi=ao), [Emanuele Frontoni](https://scholar.google.com/citations?user=Vgi8nAcAAAAJ&hl=it&oi=ao).
 
