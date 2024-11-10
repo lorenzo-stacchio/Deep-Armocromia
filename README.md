@@ -6,7 +6,7 @@
 
 <!--[[`Paper`](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)] [[`Project`](https://ai.meta.com/sam2)] [[`Dataset`](https://ai.meta.com/datasets/segment-anything-video)] [[`Blog`](https://ai.meta.com/blog/segment-anything-2)] [[`BibTeX`](#citing-sam-2)]-->
 
-[[`Paper`](https://drive.google.com/file/d/1DYsqPxyVQGSNQ0biDZXzHd0PVII0KuxQ/view?usp=sharing)] [[`Reference`](#reference)]
+[[`Paper`](https://drive.google.com/file/d/1DYsqPxyVQGSNQ0biDZXzHd0PVII0KuxQ/view?usp=sharing)] [[`Project Page`](https://lorenzo-stacchio.github.io/Deep-Armocromia/)] [[`Reference`](#reference)]
 
 
 <p align="center">
